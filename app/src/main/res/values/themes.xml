@@ -1,5 +1,5 @@
 <resources>
-    <style name="Theme.Spotless" parent="Theme.Material3.DayNight.DarkActionBar">
+    <style name="Theme.Spotless" parent="Theme.Material3.DayNight">
         <item name="colorPrimary">@color/spotless_green</item>
         <item name="colorPrimaryVariant">@color/spotless_accent</item>
         <item name="android:windowBackground">@color/spotless_deep_grey</item>
