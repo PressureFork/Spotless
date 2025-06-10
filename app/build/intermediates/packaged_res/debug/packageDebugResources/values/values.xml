@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="spotless_accent">#23FF89</color>
+    <color name="spotless_deep_grey">#181A20</color>
+    <color name="spotless_green">#1ED760</color>
+    <color name="spotless_grey_card">#24272B</color>
+    <color name="spotless_secondary">#2C313A</color>
+    <color name="spotless_soft_grey">#23272A</color>
+    <color name="spotless_text">#F2F2F2</color>
+    <string name="app_name">Spotless</string>
+    <string name="library">Library</string>
+    <string name="login">Login</string>
+    <string name="next">Next</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="pair_device">Pair Device</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="previous">Previous</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+    <style name="Theme.Spotless" parent="Theme.Material3.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/spotless_green</item>
+        <item name="colorPrimaryVariant">@color/spotless_accent</item>
+        <item name="android:windowBackground">@color/spotless_deep_grey</item>
+        <item name="android:colorBackground">@color/spotless_deep_grey</item>
+        <item name="android:colorSurface">@color/spotless_grey_card</item>
+        <item name="android:colorAccent">@color/spotless_green</item>
+        <item name="android:forceDarkAllowed">true</item>
+    </style>
+</resources>

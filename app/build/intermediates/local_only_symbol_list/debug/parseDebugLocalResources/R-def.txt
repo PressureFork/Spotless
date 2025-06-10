@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+color spotless_accent
+color spotless_deep_grey
+color spotless_green
+color spotless_grey_card
+color spotless_secondary
+color spotless_soft_grey
+color spotless_text
+drawable logo
+string app_name
+string library
+string login
+string next
+string now_playing
+string pair_device
+string pause
+string play
+string previous
+string search
+string settings
+style Theme.Spotless

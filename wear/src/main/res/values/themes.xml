@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.SpotlessWear" parent="Theme.Material3.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/spotless_green</item>
+        <item name="android:windowBackground">@color/spotless_deep_grey</item>
+        <item name="android:colorBackground">@color/spotless_deep_grey</item>
+        <item name="android:colorSurface">@color/spotless_soft_grey</item>
+        <item name="android:colorAccent">@color/spotless_green</item>
+        <item name="android:forceDarkAllowed">true</item>
+    </style>
+</resources>
