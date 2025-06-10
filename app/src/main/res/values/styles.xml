@@ -1,0 +1,13 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.Material3.DayNight">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        <!-- Add other theme attributes as needed, but do NOT use android:attr/colorSurface -->
+        <!-- Use ?attr/colorSurface if you want to reference the theme's colorSurface -->
+        <!-- <item name="colorSurface">?attr/colorSurface</item> -->
+    </style>
+</resources>
