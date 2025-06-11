@@ -4,4 +4,10 @@
     <color name="colorSecondary">#03DAC6</color>
     <color name="colorOnSecondary">#000000</color>
     <!-- Add more colors as needed -->
+    <color name="spotless_green">#1ED760</color>
+    <color name="spotless_deep_grey">#181A20</color>
+    <color name="spotless_soft_grey">#23272A</color>
+    <color name="spotless_text">#F2F2F2</color>
+    <color name="spotless_secondary">#2C313A</color>
+    <color name="spotless_accent">#23FF89</color>
 </resources>
